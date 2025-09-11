@@ -20,7 +20,7 @@ Currently, I’m exploring the world of Mobile Programming. trying to turn ideas
 | 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 1](https://drive.google.com/file/d/1Ks1jbtcaXsKPseU-B_PfWwu4ptmCFmE9/view?usp=sharing)   | [Repository](https://github.com/jovanjopan/mobilepracticum/blob/main/modul1/lib/main.dart)  |
 | 2  | 01        | 01           | Widget Row dan Column                        | [Modul 2](https://drive.google.com/file/d/1WHBrBHGsUQ-wRmwtwgp1gh4kRUpx_sVJ/view?usp=drive_link)   | [Repository](https://github.com/jovanjopan/mobilepracticum/blob/main/Mobile%202/lib/src/main.dart)  |
 | 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter  | [Modul 3](https://drive.google.com/file/d/1ZQsj6kVJvRualFHfoLlWRRJoAG_b-GPb/view?usp=sharing)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/Modul%203)  |
-| 4  | 02        | 02           | Widget Flexible dan Expanded                 | [Modul 4](https://drive.google.com/file/d/1kvtHXRX-cqG4GI9VZRwrdjXS54PWSxfa/view?usp=sharing)   | Repository  |
+| 4  | 02        | 02           | Widget Flexible dan Expanded                 | [Modul 4](https://drive.google.com/file/d/1kvtHXRX-cqG4GI9VZRwrdjXS54PWSxfa/view?usp=sharing)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/modul%204)  |
 
 
 ### 🔧I'm Ready Work With...
