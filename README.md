@@ -15,12 +15,13 @@ So, grab your favorite drink ☕ and feel free to look around.
 
 Currently, I’m exploring the world of Mobile Programming. trying to turn ideas into real apps🚀
 
-| No | Minggu ke | Praktikum ke | Topik                                        | Modul    | Laporan Praktikum   |
-|----|-----------|--------------|----------------------------------------------|----------|--------------------|
-| 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | Modul 01| [Laporan Praktikum](https://drive.google.com/file/d/1Ks1jbtcaXsKPseU-B_PfWwu4ptmCFmE9/view?usp=sharing) |
-| 2  | 01        | 01           | Widget Row dan Column                        | Modul 02 | [Laporan Praktikum](https://drive.google.com/file/d/1WHBrBHGsUQ-wRmwtwgp1gh4kRUpx_sVJ/view?usp=drive_link) |
-| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter  | [Modul 03](#) | [Template laporan](#) |
-| 4  | 02        | 02           | Widget Flexible dan Expanded                 | [Modul 04](#) | [Template laporan](#) |
+| No | Minggu ke | Praktikum ke | Topik                                        | Laporan   | Source Code |
+|----|-----------|--------------|----------------------------------------------|-----------|-------------|
+| 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 1](https://drive.google.com/file/d/1Ks1jbtcaXsKPseU-B_PfWwu4ptmCFmE9/view?usp=sharing)   | Repository  |
+| 2  | 01        | 01           | Widget Row dan Column                        | [Modul 2](https://drive.google.com/file/d/1WHBrBHGsUQ-wRmwtwgp1gh4kRUpx_sVJ/view?usp=drive_link)   | Repository  |
+| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter  | Modul 3   | Repository  |
+| 4  | 02        | 02           | Widget Flexible dan Expanded                 | Modul 4   | Repository  |
+
 
 ### 🔧I'm Ready Work With...
 ![jo](    https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
