@@ -22,6 +22,7 @@ Currently, I’m exploring the world of Mobile Programming. trying to turn ideas
 | 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter  | [Modul 3](https://drive.google.com/file/d/1ZQsj6kVJvRualFHfoLlWRRJoAG_b-GPb/view?usp=sharing)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/Modul%203)  |
 | 4  | 02        | 02           | Widget Flexible dan Expanded                 | [Modul 4](https://drive.google.com/file/d/1kvtHXRX-cqG4GI9VZRwrdjXS54PWSxfa/view?usp=sharing)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/modul%204)  |
 | 5  | 03        | 03           | Widget Sized Box, Spacer, dan Card                 | [Modul 5](https://drive.google.com/file/d/1wtnJJ8K9Ogun0soqQia67xRnPTYS5MaY/view?usp=sharing)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/modul%204)  |
+| 5  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 6](https://drive.google.com/file/d/1HbuoDoXOGnpzclJ30rqnsb0suqIybF5x/view?usp=sharing)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/modul%204)  |
 
 
 ### 🔧I'm Ready Work With...
