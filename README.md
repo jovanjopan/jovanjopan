@@ -26,7 +26,8 @@ Currently, I’m exploring the world of Mobile Programming. trying to turn ideas
 | 7  | 04       | 04           |Widget Navigasi Antar Halaman Menggunakan Material PageRoute dan Named Route | [Modul 7](https://drive.google.com/file/d/1mMp5BJLLHHqG2-DrcwYI5UwJmKlGhGlg/view?usp=sharing)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/modul%204)  |
 | 8  | 04        | 04           |Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 8](https://drive.google.com/file/d/1kJ15Y_cb_-6GKWA12xHtipaMfk4OBn0K/view?usp=sharing)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/modul%204)  |
 | 9  | 05        | 05          |Stateful Widget | [Modul 9](https://drive.google.com/file/d/1o58lp37kKbD2eyq7uSInn-icxbfENgKN/view?usp=sharing)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/modul%204)  |
-| 10  | 05        | 05          |Ujian Tengah Semester| [Laporan](https://drive.google.com/file/d/1RofVXv0bRjLmbawuTuWlO7VF_UCCpPfI/view?usp=drive_link)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/uts)  |
+| 10  | 06        | 06          |Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 9](https://drive.google.com/file/d/1o58lp37kKbD2eyq7uSInn-icxbfENgKN/view?usp=sharing)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/modul-10)  |
+| 12  | 08        | 08          |Ujian Tengah Semester| [Laporan](https://drive.google.com/file/d/1RofVXv0bRjLmbawuTuWlO7VF_UCCpPfI/view?usp=drive_link)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/uts)  |
 
 
 ### 🔧I'm Ready Work With...
