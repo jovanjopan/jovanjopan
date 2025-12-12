@@ -29,8 +29,8 @@ Currently, I’m exploring the world of Mobile Programming. trying to turn ideas
 | 10  | 06        | 06          |Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://drive.google.com/file/d/1o58lp37kKbD2eyq7uSInn-icxbfENgKN/view?usp=sharing)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/modul-10)  |
 | 11  | 07        | 07          |Manajemen State dengan GetX| [Modul 11](https://drive.google.com/file/d/1RofVXv0bRjLmbawuTuWlO7VF_UCCpPfI/view?usp=drive_link)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/modul-11)  |
 | 12  | 08        | 08          |Ujian Tengah Semester| [Laporan](https://drive.google.com/file/d/1RofVXv0bRjLmbawuTuWlO7VF_UCCpPfI/view?usp=drive_link)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/uts)  |
-| 12  | 08        | 08          |Ujian Tengah Semester| [Modul 12](https://drive.google.com/file/d/1RofVXv0bRjLmbawuTuWlO7VF_UCCpPfI/view?usp=drive_link)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/uts)  |
-| 12  | 08        | 08          |Ujian Tengah Semester| [Modul 13](https://drive.google.com/file/d/1RofVXv0bRjLmbawuTuWlO7VF_UCCpPfI/view?usp=drive_link)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/uts)  |
+| 12  | 09        | 09          |Akses Lokasi dengan GPS di Flutter| [Modul 12](https://drive.google.com/file/d/1a3ByHXFQcnAfqa5Vw7VaJiaTuN9eir5M/view?usp=sharing)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/modul-12)  |
+| 12  | 10        | 10          |Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API| [Modul 13](https://drive.google.com/file/d/1HQ4c_rlWSbM2QKNL62MfV9oDcyoyJOcd/view?usp=sharing)   | [Repository](https://github.com/jovanjopan/mobilepracticum/tree/main/modul-13/flutter_crud_api)  |
 
 
 
